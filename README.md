@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Kuguk</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">Frontend developer </h3>
 
 - I've made some example websites like this [Forest Architecture](https://davidk-forest-architecture.netlify.app/)
 - And like this [TechPro](https://davidk-techpro.netlify.app/)
